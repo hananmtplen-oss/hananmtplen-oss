@@ -1,0 +1,10 @@
+title: Security Research Blog
+description: Vulnerability disclosure and bug bounty research by Hanan M T P
+theme: minima
+author: Hanan M T P
+twitter_username: hananmtplen_oss
+github_username: hananmtplen-oss
+permalink: /blog/:title/
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
